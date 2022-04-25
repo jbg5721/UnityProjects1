@@ -100,7 +100,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 325877741daaa2f4e9ffab35b0f26301, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  points: 5
+  points: 1
   brokenEnemy: {fileID: 1190329799734713266, guid: b56ade112ba3d9341b51b80f358effe3,
     type: 3}
   haptics: 1
