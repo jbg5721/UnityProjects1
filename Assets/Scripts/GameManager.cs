@@ -9,6 +9,8 @@ public class GameManager : MonoBehaviour
     public int score = 0;
     public GameObject lastSpawnPoint;
     public int deaths = 0;
+    public float minutes = 0;
+    public float seconds = 0;
 
 
     // Allows us to refer to the game manager as an instance
